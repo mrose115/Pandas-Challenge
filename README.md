@@ -2,9 +2,9 @@
 
 This project consists of analyzing purchasing data for a free-to-play game and breaking down the data into meaningful insights. The first part of the project was to read in a CSV file and from there to gather insights for the following:
 
-      Player Count
+    Player Count
 
-      Purchasing Analysis
+    Purchasing Analysis
 
     Gender Demographics
 
